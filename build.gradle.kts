@@ -23,7 +23,6 @@ dependencies {
     implementation(libs.ktor.server.core)
     implementation(libs.ktor.server.swagger)
     implementation(libs.ktor.server.content.negotiation)
-    implementation(libs.ktor.server.default.headers)
     implementation(libs.ktor.server.compression)
     implementation(libs.ktor.server.cors)
     implementation(libs.ktor.serialization.kotlinx.json)
